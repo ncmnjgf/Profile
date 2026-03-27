@@ -1,25 +1,138 @@
-<h1 align="center">Hi 👋, I'm Dadaso Tanaji Bandgar</h1>
-<h3 align="center">💡 Full Stack MERN Developer | Problem Solver | Hackathon Winner</h3>
+<!-- HERO SECTION -->
 
-- 🔭 I’m currently working on [AI Agents](https://github.com/ncmnjgf)
+<h1 align="center">👋 Hey, I'm <span style="color:#00F7FF">Dadaso Tanaji Bandgar</span></h1>
 
-- 🌱 I’m currently learning **⚡ Advanced React.js (Performance + Architecture) ⚡ Node.js Backend Optimization & Security ⚡ Machine Learning (Beginner → Advanced roadmap)**
+<h3 align="center">
+🚀 Full Stack MERN Developer • 🧠 Problem Solver • 🏆 Hackathon Winner
+</h3>
 
-- 👯 I’m looking to collaborate on **🧠 Scaling Full Stack Apps & System Design Want to build production-level apps with best practices & performance optimization.**
+<!-- TYPING -->
 
-- 👨‍💻 All of my projects are available at [bandgardadaso7@gmail.com](bandgardadaso7@gmail.com)
-
-- 📝 I regularly write articles on [🌐 https://github.com/ncmnjgf](🌐 https://github.com/ncmnjgf)
-
-- 💬 Ask me about **💻 React.js | Node.js | MongoDB | Express.js ⚡ Frontend Performance | API Design | Debugging 🔥 Real-world Project Building**
-
-- 📄 Know about my experiences [📄 Coming Soon](📄 Coming Soon)
-
-- ⚡ Fun fact **😄 I debug faster than I write code… sometimes 😎**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Web+Apps;React+%7C+Node+%7C+MongoDB;System+Design+Enthusiast;Always+Learning+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+<!-- BADGES -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-MERN%20Stack-00F7FF?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Scalability-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Builder🔥-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 About Me
+
+```diff
++ Passionate Full Stack Developer building real-world scalable apps
++ Strong focus on performance, clean architecture & system design
++ Hackathon mindset: Build fast, optimize faster ⚡
+```
+
+* 🔭 Working on **AI Agents & Smart Systems**
+* 🌱 Learning **Advanced React + Backend Optimization + ML**
+* 💬 Ask me about **MERN | APIs | Debugging | Scaling Apps**
+* ⚡ Fun fact: *Debugging is my superpower 😎*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dadaso-bandgar-39674b271/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bandgardadaso7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ncmnjgf">
+    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,ts,python,cpp,java,html,css,tailwind,docker,aws,firebase,redis,postgres,mysql,vue&perline=9" />
+</p>
+
+---
+
+## 📊 GitHub Intelligence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ncmnjgf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ncmnjgf&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncmnjgf&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity & Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ncmnjgf&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 🧠 Language & Code Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncmnjgf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ncmnjgf&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ncmnjgf/ncmnjgf/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+| Project                    | Description                     |
+| -------------------------- | ------------------------------- |
+| 🤖 AI Agents               | Smart automation & AI workflows |
+| 🧾 AI Resume Analyzer      | Resume scoring using AI         |
+| 🍽️ Mess Management System | Real-world client project       |
+| 📊 Sorting Visualizer      | DSA visualization tool          |
+
+---
+
+## 💡 Dev Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Final Thought
+
+<h3 align="center">
+✨ "I don’t just write code — I build systems that scale." ✨
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
